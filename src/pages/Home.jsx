@@ -109,6 +109,7 @@ function Home() {
                                 <option value="2">🧑‍🤝‍🧑 2 kishi</option>
                                 <option value="3">👨‍👩‍👦 3 kishi</option>
                                 <option value="4">👨‍👩‍👧‍👦 4 kishi</option>
+                                <option value="4">📦 Po'chta</option>
                             </select>
                             <select className="w-full p-2 border-2 border-yellow-500 rounded-lg bg-white text-gray-800 focus:outline-none focus:border-yellow-600 text-sm">
                                 <option value="" disabled>🚻 Erkak yoki Ayol?</option>
